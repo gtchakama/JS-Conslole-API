@@ -47,4 +47,11 @@ a {
       width: 100%;
   }
 
- 
+  #demo {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0;
+  }
+  button {
+    margin: 0.5em;
+  }
