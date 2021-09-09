@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+a {
+    color: #F7B32B;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  a:hover{
+      color: #F72C25;
+  }
+  
+  body {
+    font-family: 'PT Sans', sans-serif;
+    margin: 0.1em;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 1em 0 1em;
+    background-color: #0D1B2A;
+    color: whitesmoke;
+  }
+  p{
+      font-size: 1.2rem;
+  }
+  button {
+    font-size: 1rem;
+    font-weight: 300;
+    width: 30%;
+    padding: 0.5em 1em 0.5em 1em;
+    color: white;
+    background-color: #F72C25;
+    border: 2px solid #f72c25a2;
+    border-radius: 3px;
+    cursor: pointer;
+    font-family: 'Inter', sans-serif;
+  }
+  button:hover{
+    background-color: #b41904;
+    border-color: #F7B32B;
+  }
+ 
+  #demo {
+      width: 100%;
+  }
+  #demo div{
+      width: 100%;
+  }
+
+ 
